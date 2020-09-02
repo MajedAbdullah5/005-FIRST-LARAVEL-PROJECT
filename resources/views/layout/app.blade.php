@@ -6,6 +6,7 @@
     <title>@yield('title')</title>
     <link rel="stylesheet" href="{{URL::asset('css/bootstrap.min.css')}}">
     <link rel="stylesheet" href="{{URL::asset('css/custom.css')}}">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,600;1,600&display=swap" rel="stylesheet">
 </head>
 <body>
 @include('layout/menu')

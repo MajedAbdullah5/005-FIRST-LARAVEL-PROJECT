@@ -1,3 +1,6 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
 .brandLogo{
     width: 40px;
     height: 40px;
@@ -11,5 +14,12 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-position:center ;
-    min-height: 500px   ;
+    min-height: 400px   ;
+}
+.divCenter{
+    margin-top:150px;
+    margin-left: 460px;
+    padding: 5px;
+
+    
 }
