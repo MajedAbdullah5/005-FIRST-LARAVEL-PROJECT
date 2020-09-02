@@ -1,0 +1,15 @@
+.brandLogo{
+    width: 40px;
+    height: 40px;
+    margin-right:5px;
+}
+
+/* ---------------------------home.php----------------------- */
+.pixabay{
+    background-image: url("../images/people.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center ;
+    min-height: 500px   ;
+}
